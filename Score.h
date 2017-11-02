@@ -8,3 +8,4 @@ public:
 private:
 	int amount_;
 };
+//hi
