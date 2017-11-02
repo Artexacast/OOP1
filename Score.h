@@ -7,3 +7,6 @@ public:
 private:
 	int amount_;
 };
+
+
+//idghfigushoufhpsid
