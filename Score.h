@@ -4,9 +4,7 @@ public:
 	Score();
 	int getAmount() const;
 	void updateAmount(int);
+	////////////
 private:
 	int amount_;
 };
-
-
-//idghfigushoufhpsid
